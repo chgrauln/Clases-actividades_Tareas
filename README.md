@@ -1,4 +1,3 @@
-Portal de Recursos Educativos de la Unidad Educativa "Primero de Abril".
+Portal de Recursos Educativos de la Unidad Educativa “Primero de Abril”.
 
-Esta versión usa estilos y sello institucional incrustados directamente en las páginas para evitar errores de rutas en GitHub Pages.
-Publicación: Settings > Pages > rama principal > / (raíz).
+Todos los archivos HTML se encuentran en la raíz del repositorio para facilitar la publicación en GitHub Pages.

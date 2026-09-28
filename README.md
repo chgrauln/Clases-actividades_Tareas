@@ -1,3 +1,5 @@
-Portal de Recursos Educativos de la Unidad Educativa “Primero de Abril”.
+# Portal educativo – Segundo paquete
 
-Todos los archivos HTML se encuentran en la raíz del repositorio para facilitar la publicación en GitHub Pages.
+Páginas de cursos para el repositorio `Clases-actividades_Tareas`.
+
+Todos los archivos HTML están en la raíz y utilizan `index.html` para volver al inicio.
